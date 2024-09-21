@@ -10,9 +10,9 @@ A real-time chatting application that allows users to send and receive messages 
 
 - **Real-time Messaging**: Instant messaging between users.
 - **User Authentication**: Secure login and registration using Firebase Authentication.
-- **Update Messages**: Double-tap on messages to edit them.
-- **Delete Messages**: Double-tap on messages to delete them.
-- **User Profiles**: Display user information and chat history.
+- **Update Messages**    : Double-tap on messages to edit them.
+- **Delete Messages**    : Double-tap on messages to delete them.
+- **Chat**               : Display user chat history.
 
 ## Technologies Used
 
