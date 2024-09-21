@@ -1,6 +1,3 @@
-Here's a template for a README file for your chatting app. You can customize it further based on your specific features and requirements.
-
----
 
 # Chatting App
 
